@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Create Quiz | QuizX</title><link rel="stylesheet" href="/css/style.css"></head>
+<body><div class="topbar"><a href="/" class="top-brand">QUIZX</a><span>Create Quiz Room</span></div><main class="form-shell"><section class="form-card"><div class="step">STEP 1 • CREATE ROOM</div><h1>Create your quiz</h1><p>Set the quiz name, participant limit and time. Participants can join from any device using the room code.</p>
+<label for="quizName">Quiz Name</label><input id="quizName" maxlength="60" placeholder="e.g. Aptitude Challenge">
+<label for="maxPlayers">Maximum Participants</label><input id="maxPlayers" type="number" min="1" max="50" value="10">
+<label for="durationMinutes">Quiz Duration (minutes)</label><input id="durationMinutes" type="number" min="5" max="180" value="45">
+<div class="info-box"><b>Smart question selection</b><br>QuizX selects a different 45-question set and order from its question bank for each room code.<br><br><b>QuizX room rules</b><br>• Up to 50 participants<br>• Unique 6-digit room code<br>• Host can end the quiz anytime<br>• If host does not end it, it ends automatically when the timer reaches zero<br>• Results are saved for the host</div>
+<button class="primary wide" onclick="createRoom()">CREATE QUIZ ROOM</button><p id="error" class="error"></p></section></main><script src="/socket.io/socket.io.js"></script><script src="/js/create.js"></script></body></html>

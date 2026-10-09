@@ -1,0 +1,97 @@
+[
+  {
+    "roomCode": "979830",
+    "hostToken": "f6221675a97dea0a01b1a42d26a8e02cef7ac00eac7eeed0",
+    "quizName": "lloyd institute of engineering and technology",
+    "maxPlayers": 10,
+    "startedAt": "2026-10-08T16:26:38.546Z",
+    "endedAt": "2026-10-08T16:27:13.389Z",
+    "endReason": "host",
+    "participants": [
+      {
+        "id": "8d2110e4-9a68-4309-8e58-eb6a8072965f",
+        "roomCode": "979830",
+        "quizName": "lloyd institute of engineering and technology",
+        "playerName": "fsdbrd",
+        "language": "English",
+        "playerToken": "08e1c6a392c3ab8e2952eba644bde2a726bd4bd183454ef7",
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 45,
+        "attempted": 0,
+        "accuracy": 0,
+        "score": 0,
+        "total": 45,
+        "categories": {
+          "Logical Reasoning": {
+            "total": 19,
+            "correct": 0,
+            "wrong": 0,
+            "unanswered": 19,
+            "accuracy": 0
+          },
+          "Quantitative Aptitude": {
+            "total": 26,
+            "correct": 0,
+            "wrong": 0,
+            "unanswered": 26,
+            "accuracy": 0
+          }
+        },
+        "guidance": [
+          "Start with concept revision and easy practice; increase difficulty gradually.",
+          "Quantitative Aptitude needs improvement: revise percentages, ratios, averages, arithmetic and calculation shortcuts.",
+          "Logical Reasoning needs improvement: practice series, coding-decoding, directions and deduction questions.",
+          "You left 45 question(s) unanswered. Work on time allocation and skip/return strategy."
+        ],
+        "submittedAt": "2026-10-08T16:27:13.390Z",
+        "durationSeconds": 35,
+        "answers": [],
+        "performanceLevel": "Needs Foundation",
+        "endReason": "host"
+      },
+      {
+        "id": "81039fec-fc0d-4be1-a8ab-afbdb966f9cd",
+        "roomCode": "979830",
+        "quizName": "lloyd institute of engineering and technology",
+        "playerName": "fererdg",
+        "language": "English",
+        "playerToken": "72de9aeb9393ab8cf9f9966c093ea3baf1dae4023049f32b",
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 45,
+        "attempted": 0,
+        "accuracy": 0,
+        "score": 0,
+        "total": 45,
+        "categories": {
+          "Logical Reasoning": {
+            "total": 19,
+            "correct": 0,
+            "wrong": 0,
+            "unanswered": 19,
+            "accuracy": 0
+          },
+          "Quantitative Aptitude": {
+            "total": 26,
+            "correct": 0,
+            "wrong": 0,
+            "unanswered": 26,
+            "accuracy": 0
+          }
+        },
+        "guidance": [
+          "Start with concept revision and easy practice; increase difficulty gradually.",
+          "Quantitative Aptitude needs improvement: revise percentages, ratios, averages, arithmetic and calculation shortcuts.",
+          "Logical Reasoning needs improvement: practice series, coding-decoding, directions and deduction questions.",
+          "You left 45 question(s) unanswered. Work on time allocation and skip/return strategy."
+        ],
+        "submittedAt": "2026-10-08T16:27:13.392Z",
+        "durationSeconds": 35,
+        "answers": [],
+        "performanceLevel": "Needs Foundation",
+        "endReason": "host"
+      }
+    ]
+  }
+]

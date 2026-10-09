@@ -1,0 +1,9 @@
+{
+  "name":"QuizX - Live Quiz & Performance Platform",
+  "short_name":"QuizX",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#eef3f8",
+  "theme_color":"#1769aa",
+  "description":"Live multiplayer quizzes with host monitoring and performance report cards."
+}
